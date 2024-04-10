@@ -1,0 +1,16 @@
+body
+{
+    background-color: black;
+}
+h1
+{
+    color: brown;
+    text-align: center;
+    font-size: 80px;
+}
+p
+{
+    font-size: 30px;
+    text-align: center;
+    color: rgb(143, 60, 60);
+}
